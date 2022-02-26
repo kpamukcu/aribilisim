@@ -1,0 +1,31 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css");
+
+h1{font-size:30px;}
+h2{font-size:25px !important;}
+h3{font-size:25px !important;}
+h4{font-size:20px !important;}
+a{text-decoration: none !important;}
+#topHeader a{color:#fff;}
+#footer{line-height: 16px !important;}
+#footer a{color:#393939;}
+#footer .bi{font-size:24px;}
+
+#footer .bi:hover{
+    color:#17a2b8;
+    transition: .5s;
+}
+
+.bg-acikMavi{background-color: #ddeaff;}
+#cta p{font-size:35px;}
+
+#hakkimdaBanner{
+    background-image: url('../img/ari-bilisim-hakkimda-2000x1125.webp');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.py-15{
+    padding-top:150px; 
+    padding-bottom:150px;
+}
