@@ -29,3 +29,7 @@ a{text-decoration: none !important;}
     padding-top:150px; 
     padding-bottom:150px;
 }
+
+#projeler .modal-footer{
+    flex-wrap: nowrap;
+}
