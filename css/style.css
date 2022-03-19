@@ -131,3 +131,28 @@ a {
     font-size: 22px;
     color: #393939;
 }
+
+
+/* Mobil Görünüm Css Width 768px */
+
+@media (max-width:768px) {
+    /*    
+    bu Şekilde tanımlama yapılırsa tüm sayfalara gidip ilgili class ismini eklemek gerekir
+    .solaYasla {
+        text-align: left !important;
+    }    
+    */
+    #topHeader .col-md-6:nth-child(2) {
+        text-align: left !important;
+    }
+    /* #anaSayfaBanner .col-md-6:nth-child(2) {
+        padding-top: 30px;
+    } */
+    #anaSayfaBanner img {
+        margin-top: 30px;
+    }
+    #hizmetlerim .col-md-4:nth-child(3) {
+        margin-top: 15px;
+        margin-bottom: 15px !important;
+    }
+}
