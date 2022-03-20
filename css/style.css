@@ -29,7 +29,6 @@ a {
 
 #footer {
     line-height: 16px !important;
-    background-color: #F0F4C3;
 }
 
 #footer a,
@@ -154,5 +153,33 @@ a {
     #hizmetlerim .col-md-4:nth-child(3) {
         margin-top: 15px;
         margin-bottom: 15px !important;
+    }
+    #cta p {
+        font-size: 24px;
+    }
+    #blog .col-8 {
+        padding-left: 40px;
+    }
+    #blog .col-md-6:nth-child(2),
+    #blog .col-md-6:nth-child(4) {
+        margin-top: 20px;
+    }
+    #footer .sol {
+        margin-top: 15px !important;
+        margin-bottom: 15px;
+    }
+    #bottomFooter .col-md-6 {
+        text-align: center !important;
+    }
+    #hakkimdaBanner .display-4 {
+        font-size: 35px;
+        line-height: 1rem;
+    }
+    #hakkimdaIcerik .col-12 img {
+        width: 56px;
+    }
+    #projeler .col-md-4:nth-child(3) {
+        margin-top: 25px;
+        margin-bottom: 25px;
     }
 }
