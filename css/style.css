@@ -182,4 +182,29 @@ a {
         margin-top: 25px;
         margin-bottom: 25px;
     }
+    #webHizmeti,
+    #grafikHizmeti,
+    #dijitalHizmet,
+    #blogBanner,
+    #iletisimBanner {
+        padding-top: 75px;
+        padding-bottom: 75px;
+    }
+    .orta {
+        margin-top: 25px;
+        margin-bottom: 25px;
+    }
+    #content .col-md-3 {
+        margin-top: 25px;
+    }
+    #iletisimInfo a,
+    #iletisimInfo p {
+        font-size: 18px !important;
+    }
+    #iletisimForm iframe {
+        height: 335px;
+    }
+    #iletisimForm .col-md-6:nth-child(2) {
+        margin-top: 25px;
+    }
 }
